@@ -38,3 +38,6 @@ EUR 204.34
 oaturtleclan (558) 100%
 seller URL is:  https://www.ebay.ie/fdbk/feedback_profile/oaturtleclan?filter=feedback_page%3ARECEIVED_AS_SELLER
 ACHTUNG: no sales history or sales are hidden, either way - I would pass on this seller.
+
+
+If people will be interested in this, I will improve it with sniping tool URL's and other bells and whistles.(more strict checks of reseller come to mind)
