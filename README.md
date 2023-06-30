@@ -24,7 +24,7 @@ The main reason why I created this script - I was sick and tired of irrelevant r
 If people will be interested in this, I will improve it with sniping tool URL's and other bells and whistles.(more strict checks of reseller come to mind)
 
 
-Example output may looks something like:
+Example output may looks something like(be advised, github does some weird formatting of stuff below, so result may warry):
 
  python buysieve.py "https://www.ebay.ie/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=amd+rx+(%2216gb%22%2C+%2212gb%22)+-computer+-pc+-motherboard+(%22GPU%22%2C+%22Graphics+Card%22)+-8gb&_sacat=0&LH_TitleDesc=0&_udlo=120&_odkw=amd+rx+16gb+-computer+-pc+-motherboard+(%22GPU%22%2C+%22Graphics+Card%22)+-8gb+12gb&_osacat=0&_sop=1&LH_PrefLoc=2&_ipg=240&_udhi=300" 
 user site type is:  www.ebay.ie
