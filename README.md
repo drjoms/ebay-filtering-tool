@@ -6,6 +6,7 @@ Python environment
 Selenium library for python.
 Google Chromium/Chrome with Selenium compatibility.
 
+I did not test it on anything else but my trusty Linux Gentoo.
 
 How it works:
 Search for something you need.
@@ -18,7 +19,7 @@ python buysieve.py "https://www.ebay.ie/sch/i.html?_from=R40&_trksid=p2334524.m5
 Now app will load a page, and cut out advertising section together with less relevant results.
 Once it does it - it checks for every product, and will provide you with info on product name, price, iten number, URL of product, its seller, seller's reputation and some information on ammount of money earned from sold products.
 
-The main reason why i created this script, I was sick and tired of irrelevant results/advertising and scammy traders on ebay, when comes to computer parts.
+The main reason why I created this script - I was sick and tired of irrelevant results/advertising and scammy traders on Ebay, when comes to computer parts.
 
 Example output may looks something like:
 
