@@ -38,7 +38,7 @@ US $10.00  US $60.00  US $3.00  US $3.49  US $5.50  US $4.00  US $19.00  US $7.0
 
 AMD Radeon RX 6700 XT 12GB GDDR6 Graphics Card GPU Reference 6700xt -Excellent 2350651255 www.ebay.ie/itm/2350651255
 EUR 204.34
-oaturtleclan (558) 100%
+oat*eclan (558) 100%
 seller URL is:  https://www.ebay.ie/fdbk/feedback_profile/oaturtleclan?filter=feedback_page%3ARECEIVED_AS_SELLER
 ACHTUNG: no sales history or sales are hidden, either way - I would pass on this seller.
 
