@@ -69,7 +69,7 @@ for product in list_of_products:
         print("\n")
         product_name = catch_between('<span role=heading aria-level=3><\!--F#f_0-->' ,'<\!--F/--></span></div>', product, '|<span class=LIGHT_HIGHLIGHT>|New listing</span><\!--F/--><\!--F#f_0-->' )
         item_number=catch_between('/itm/', '\?hash=item', product, "" )
-        product_url=str(user_site+"/itm/"+item_number)
+        product_url=str("https://"+user_site+"/itm/"+item_number)
         print ( product_name, item_number, product_url )
 
 
