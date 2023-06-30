@@ -21,6 +21,9 @@ Once it does it - it checks for every product, and will provide you with info on
 
 The main reason why I created this script - I was sick and tired of irrelevant results/advertising and scammy traders on Ebay, when comes to computer parts.
 
+If people will be interested in this, I will improve it with sniping tool URL's and other bells and whistles.(more strict checks of reseller come to mind)
+
+
 Example output may looks something like:
 
  python buysieve.py "https://www.ebay.ie/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=amd+rx+(%2216gb%22%2C+%2212gb%22)+-computer+-pc+-motherboard+(%22GPU%22%2C+%22Graphics+Card%22)+-8gb&_sacat=0&LH_TitleDesc=0&_udlo=120&_odkw=amd+rx+16gb+-computer+-pc+-motherboard+(%22GPU%22%2C+%22Graphics+Card%22)+-8gb+12gb&_osacat=0&_sop=1&LH_PrefLoc=2&_ipg=240&_udhi=300" 
@@ -39,5 +42,3 @@ oaturtleclan (558) 100%
 seller URL is:  https://www.ebay.ie/fdbk/feedback_profile/oaturtleclan?filter=feedback_page%3ARECEIVED_AS_SELLER
 ACHTUNG: no sales history or sales are hidden, either way - I would pass on this seller.
 
-
-If people will be interested in this, I will improve it with sniping tool URL's and other bells and whistles.(more strict checks of reseller come to mind)
