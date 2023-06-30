@@ -35,15 +35,15 @@ Example output may looks something like(be advised, github does some weird forma
 user site type is:  www.ebay.ie
 
 
-PowerColor Red Dragon AMD Radeon RX 6800 OC 16GB GDDR6 Graphics Card 155626030119 www.ebay.ie/itm/155626030119
+PowerColor Red Dragon AMD Radeon RX 6800 OC 16GB GDDR6 Graphics Card 155626030119 https://www.ebay.ie/itm/155626030119
 EUR 298.48
 dancingmemoriesqueen (1,315) 100%
 seller URL is:  https://www.ebay.ie/fdbk/feedback_profile/dancingmemoriesqueen?filter=feedback_page%3ARECEIVED_AS_SELLER
 US $10.00  US $60.00  US $3.00  US $3.49  US $5.50  US $4.00  US $19.00  US $7.00  US $55.00  US $112.50  US $22.00  US $57.00  US $39.00  US $24.00  US $7.00  US $45.00  US $5.00  US $4.00  US $5.00  US $10.00  US $4.00  US $5.00  US $9.00  US $7.00  US $4.00  
 
-AMD Radeon RX 6700 XT 12GB GDDR6 Graphics Card GPU Reference 6700xt -Excellent 2350651255 www.ebay.ie/itm/2350651255
+AMD Radeon RX 6700 XT 12GB GDDR6 Graphics Card GPU Reference 6700xt -Excellent 2350651255 https://www.ebay.ie/itm/2350651255
 EUR 204.34
 oat*eclan (558) 100%
-seller URL is:  https://www.ebay.ie/fdbk/feedback_profile/oaturtleclan?filter=feedback_page%3ARECEIVED_AS_SELLER
+seller URL is:  https://www.ebay.ie/fdbk/feedback_profile/oatu*lan?filter=feedback_page%3ARECEIVED_AS_SELLER
 ACHTUNG: no sales history or sales are hidden, either way - I would pass on this seller.
 
