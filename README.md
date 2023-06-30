@@ -23,6 +23,11 @@ The main reason why I created this script - I was sick and tired of irrelevant r
 
 If people will be interested in this, I will improve it with sniping tool URL's and other bells and whistles.(more strict checks of reseller come to mind)
 
+Known issues:
+Ebay does not like people collecting data on their sellers. Because of that i had to fool ebay a little. Basically I noticed that my automated scrapping attempts were killed off by Ebay's captcha. So I implemented Selenium. And even then, once every so often captcha shows up in my requests.
+Take note of reseller, in whose requests captcha appears(selenium will trigger web browser to open up for 2-3 seconds) and try to open up their page in anonymous page of web browser. If captcha appears - solve it. And this script will work properly once more.
+Curl + cookies did not cut it. I am opened to suggestions.
+
 
 Example output may looks something like(be advised, github does some weird formatting of stuff below, so result may warry):
 
